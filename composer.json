@@ -1,0 +1,11 @@
+{
+    "name": "thoughtbot/bourbon",
+    "description": "PHP Package Test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sa3hin"
+        }
+    ]
+}
