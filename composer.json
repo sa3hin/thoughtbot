@@ -1,6 +1,6 @@
 {
     "name": "thoughtbot/bourbon",
-    "version": "^7.1",
+    "version": "dev-main",
     "description": "PHP Package Test",
     "type": "library",
     "license": "MIT",
